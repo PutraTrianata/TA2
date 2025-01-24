@@ -1,0 +1,2 @@
+1,Tenda,Puma,L,90000.0,6 Orang max,10,Tersedia
+2,Jas Hujan,Penguin,L,20000.0,Baju & celana,10,Tersedia
